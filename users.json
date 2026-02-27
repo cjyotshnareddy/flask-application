@@ -1,0 +1,134 @@
+[
+  {
+    "first_name": "James",
+    "last_name": "Smith",
+    "company_name": "ABC Corp",
+    "age": 28,
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001",
+    "email": "james@example.com",
+    "web": "www.james.com"
+  },
+  {
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "company_name": "XYZ Ltd",
+    "age": 32,
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60007",
+    "email": "alice@example.com",
+    "web": "www.alice.com"
+  },
+  {
+  "first_name": "Rahul",
+  "last_name": "Verma",
+  "company_name": "Tech Pvt Ltd",
+  "age": 26,
+  "city": "Delhi",
+  "state": "DL",
+  "zip": "110001",
+  "email": "rahul@example.com",
+  "web": "www.rahul.com"
+},
+{
+  "first_name": "Rahul",
+  "last_name": "Sharma",
+  "company_name": "Innovatech Solutions",
+  "age": 27,
+  "city": "Bangalore",
+  "state": "KA",
+  "zip": "560001",
+  "email": "rahul.sharma1@example.com",
+  "web": "www.rahulsharma.com"
+},
+{
+  "first_name": "Priya",
+  "last_name": "Mehta",
+  "company_name": "DataBridge Analytics",
+  "age": 29,
+  "city": "Mumbai",
+  "state": "MH",
+  "zip": "400001",
+  "email": "priya.mehta1@example.com",
+  "web": "www.priyamehta.com"
+},
+{
+  "first_name": "Arjun",
+  "last_name": "Reddy",
+  "company_name": "NextWave Tech",
+  "age": 31,
+  "city": "Hyderabad",
+  "state": "TS",
+  "zip": "500001",
+  "email": "arjun.reddy1@example.com",
+  "web": "www.arjunreddy.com"
+},
+{
+  "first_name": "Sneha",
+  "last_name": "Iyer",
+  "company_name": "CloudSphere Pvt Ltd",
+  "age": 26,
+  "city": "Chennai",
+  "state": "TN",
+  "zip": "600001",
+  "email": "sneha.iyer1@example.com",
+  "web": "www.snehaiyer.com"
+},
+{
+  "first_name": "Karan",
+  "last_name": "Malhotra",
+  "company_name": "FinEdge Corp",
+  "age": 34,
+  "city": "Delhi",
+  "state": "DL",
+  "zip": "110001",
+  "email": "karan.malhotra1@example.com",
+  "web": "www.karanmalhotra.com"
+},
+{
+  "first_name": "Ananya",
+  "last_name": "Das",
+  "company_name": "GreenLeaf Ventures",
+  "age": 25,
+  "city": "Kolkata",
+  "state": "WB",
+  "zip": "700001",
+  "email": "ananya.das1@example.com",
+  "web": "www.ananyadas.com"
+},
+{
+  "first_name": "Vikram",
+  "last_name": "Patel",
+  "company_name": "BrightFuture Labs",
+  "age": 30,
+  "city": "Ahmedabad",
+  "state": "GJ",
+  "zip": "380001",
+  "email": "vikram.patel1@example.com",
+  "web": "www.vikrampatel.com"
+},
+{
+  "first_name": "Meera",
+  "last_name": "Nair",
+  "company_name": "Oceanic Systems",
+  "age": 28,
+  "city": "Kochi",
+  "state": "KL",
+  "zip": "682001",
+  "email": "meera.nair1@example.com",
+  "web": "www.meeranair.com"
+},
+{
+  "first_name": "Rohan",
+  "last_name": "Kapoor",
+  "company_name": "SkyHigh Enterprises",
+  "age": 33,
+  "city": "Pune",
+  "state": "MH",
+  "zip": "411001",
+  "email": "rohan.kapoor1@example.com",
+  "web": "www.rohankapoor.com"
+}
+]
